@@ -8,9 +8,13 @@ Interested in AI, Data Science.
 🎓 About Me
 
 🏫 Computer Science student at Princess Nourah University.
+
 💡 Interested in Artificial Intelligence and Data Science as future fields.
+
 🌱 Focused on building my technical and analytical skills.
+
 📊 Interested in real-world applications of data and technology.
+
 🚀 Passionate about continuous learning and self-development in tech.
 
 | Category | Technologies |
