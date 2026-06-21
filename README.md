@@ -1,7 +1,7 @@
 👋 Hi, I’m Reema
 
 Computer Science Student
-Interested in AI, Data Science, and Software Development
+Interested in AI, Data Science.
 
 ⸻
 
